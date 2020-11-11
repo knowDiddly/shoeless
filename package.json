@@ -1,0 +1,31 @@
+{
+  "name": "shoeless",
+  "version": "0.0.1",
+  "description": "Fast, simple, minimal dependency, modern web application build system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knowDiddly/shoeless.git"
+  },
+  "keywords": [
+    "build",
+    "watch",
+    "watcher",
+    "frontend",
+    "backend",
+    "minimal",
+    "fast",
+    "simple",
+    "clie",
+    "api"
+  ],
+  "author": "David Tregear",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/knowDiddly/shoeless/issues"
+  },
+  "homepage": "https://github.com/knowDiddly/shoeless#readme"
+}
